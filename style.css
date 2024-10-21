@@ -1,4 +1,4 @@
-h1 {
+#welcome {
     border: 2px solid rgb(167, 78, 78);
     background:  rgb(240, 169, 169);
     border-radius: 30px;
@@ -7,8 +7,7 @@ h1 {
     text-align: center;
     padding: 15px;
 }
-
-p {
+.info {
     border: 2px solid rgb(255, 213, 213);
     border-radius: 30px;
     background:  rgb(154, 63, 63);
@@ -17,8 +16,7 @@ p {
     text-align: justify;
     padding: 15px;
 }
-
-img {
+#fotito {
     border-radius: 8px;
     display: block;
     margin-left: auto;
